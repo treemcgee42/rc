@@ -1,3 +1,4 @@
+mod cursor;
 mod lexer;
 
 fn main() {
