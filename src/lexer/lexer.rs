@@ -1,6 +1,6 @@
 use self::LiteralKind::*;
 use self::TokenKind::*;
-use crate::cursor::Cursor;
+use  super::cursor::Cursor;
 
 /* ========================= */
 /* ===== Key functions ===== */
